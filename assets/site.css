@@ -210,3 +210,6 @@ cite{display:block;font:400 18px/1.3 var(--hand);font-style:normal;color:var(--k
   .three li{grid-template-columns:52px 1fr}
   .n{font-size:34px}
 }
+
+/* кнопка «Показать ещё отзывы» и другие скрытые элементы прячутся по-настоящему */
+[hidden]{display:none!important}
